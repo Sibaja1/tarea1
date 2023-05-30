@@ -1,0 +1,8 @@
+C:\Users\aguil\OneDrive\Documentos\Sibaja\Tesis\Horas_de_trabajo_de_proyectos\bin\Debug\Horas_de_trabajo_de_proyectos.exe.config
+C:\Users\aguil\OneDrive\Documentos\Sibaja\Tesis\Horas_de_trabajo_de_proyectos\bin\Debug\Horas_de_trabajo_de_proyectos.exe
+C:\Users\aguil\OneDrive\Documentos\Sibaja\Tesis\Horas_de_trabajo_de_proyectos\bin\Debug\Horas_de_trabajo_de_proyectos.pdb
+C:\Users\aguil\OneDrive\Documentos\Sibaja\Tesis\Horas_de_trabajo_de_proyectos\obj\Debug\Horas_de_trabajo_de_proyectos.csproj.AssemblyReference.cache
+C:\Users\aguil\OneDrive\Documentos\Sibaja\Tesis\Horas_de_trabajo_de_proyectos\obj\Debug\Horas_de_trabajo_de_proyectos.csproj.SuggestedBindingRedirects.cache
+C:\Users\aguil\OneDrive\Documentos\Sibaja\Tesis\Horas_de_trabajo_de_proyectos\obj\Debug\Horas_de_trabajo_de_proyectos.csproj.CoreCompileInputs.cache
+C:\Users\aguil\OneDrive\Documentos\Sibaja\Tesis\Horas_de_trabajo_de_proyectos\obj\Debug\Horas_de_trabajo_de_proyectos.exe
+C:\Users\aguil\OneDrive\Documentos\Sibaja\Tesis\Horas_de_trabajo_de_proyectos\obj\Debug\Horas_de_trabajo_de_proyectos.pdb
